@@ -11,7 +11,7 @@ Site:
 3. Install ganache-cli  `npm i -g ganache-cli`
 
 ## Project Setup (Backend)
-1. Create <project>/contracts directory and `cd` to <project>/contracts
+1. Create {project}/contracts directory and `cd` to {project}/contracts
 2. `npm init` (to create package.json)
 3. `npm i @openzeppelin/contracts --save`
 4. `truffle init`
