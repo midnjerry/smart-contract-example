@@ -1,5 +1,5 @@
-const Migrations = artifacts.require("AppleToken");
+const AppleToken = artifacts.require("AppleToken");
 
 module.exports = function (deployer) {
-  deployer.deploy(Migrations);
+  deployer.deploy(AppleToken);
 };

@@ -1,5 +1,5 @@
-const Migrations = artifacts.require("OrangeToken");
+const OrangeToken = artifacts.require("OrangeToken");
 
 module.exports = function (deployer) {
-  deployer.deploy(Migrations);
+  deployer.deploy(OrangeToken);
 };
