@@ -2,7 +2,7 @@
   "name": "ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://midnjerry.github.io/fruit-swap",
+  "homepage": "https://midnjerry.github.io/smart-contract-example",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
     "@testing-library/jest-dom": "^5.16.4",
