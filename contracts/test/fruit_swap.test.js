@@ -11,7 +11,7 @@ contract("FruitSwap", (accounts) => {
   let orangeToken;
 
   beforeEach(async () => {
-    // Creating new instances to make tests immutable
+    // Creating new instances to make tests idempotent
     appleToken = await AppleToken.new({ from: owner });
     orangeToken = await OrangeToken.new({ from: owner });
     fruitSwap = await FruitSwap.new(appleToken.address, orangeToken.address, { from: fruitSwapOwner });
