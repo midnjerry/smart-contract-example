@@ -1,8 +1,7 @@
 # Fruit Swap Dapp
-Fruit Swap Decentralized App is a sample project showcasing smart contracts hosted on the FTM network and a UI hosted on Heroku
+Fruit Swap Decentralized App is a sample project showcasing smart contracts hosted on the FTM network and a UI hosted on GitHub Pages
 
-Site:
-(wait for instance to spin up)
+Site: [https://midnjerry.github.io/smart-contract-example](https://midnjerry.github.io/smart-contract-example)
 
 ## Environment Setup
 
